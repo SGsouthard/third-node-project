@@ -1,0 +1,23 @@
+{
+  "name": "third-node-project",
+  "version": "1.0.0",
+  "description": "axios and faker tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGsouthard/third-node-project.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sydney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGsouthard/third-node-project/issues"
+  },
+  "homepage": "https://github.com/SGsouthard/third-node-project#readme"
+}
